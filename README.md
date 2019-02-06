@@ -3,7 +3,7 @@ My next repo.
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-        <style>
+        	<style>
 		* {
 			box-sizing: border-box;
 			height: 50px;
